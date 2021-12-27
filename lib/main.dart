@@ -5,5 +5,8 @@ import 'package:taxi_application/src/app.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
-  runApp(MyApp());
+  runApp(MyApp());void
+  dartád
+  ád
+  
 }
